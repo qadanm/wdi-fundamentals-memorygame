@@ -13,3 +13,5 @@ var cardFour = "king";
 
 
 console.log("user flipped" + " " + cardThree);
+
+console.log("user flipped" + " " + cardFour);
