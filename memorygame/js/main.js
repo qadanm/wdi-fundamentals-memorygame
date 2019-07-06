@@ -21,5 +21,5 @@ var flipCard = function(cardID){
     console.log("User Flipped " + cardID);
 }
 
-flipCard(0);
-flipCard(2);
+flipCard(3);
+flipCard(1);
